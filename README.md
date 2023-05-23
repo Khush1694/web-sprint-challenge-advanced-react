@@ -36,6 +36,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 4. Define stateful logic.
 
+
 5. Describe how to test a React component with React Testing Library.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
