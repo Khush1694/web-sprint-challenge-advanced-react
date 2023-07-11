@@ -7,6 +7,7 @@ const initialValue = {
   city: "",
   state: "",
   zip: "",
+  salary:""
 };
 
 // This form should be handled by a "useForm" custom hook
